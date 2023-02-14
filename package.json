@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "text":"echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
   "author": "KhuyenB1910534",
